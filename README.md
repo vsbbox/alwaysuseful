@@ -1,2 +1,1 @@
-# alwaysuseful
-everything that I've been taken around!
+# Tutorials and procedures to make my life easier ;)
